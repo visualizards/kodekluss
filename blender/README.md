@@ -57,7 +57,7 @@ for i in range(5):
         cube.keyframe_insert("location", frame=(frame + 1) * 30)
 ```
 
-Når du har kjørt koden kan du lage en film ved å trykke på [Ctrl]+[F12], da vil en film lagres i "c:/tmp"-mappen. Denne filmen vil bestå av 5 kuber som svermer tilfeldig rundt i rommet. Du kan se filmen koden lagde [her](boks_sverm.mp4)
+Når du har kjørt koden kan du lage en film ved å trykke på [Ctrl]+[F12], da vil en film lagres i "c:/tmp"-mappen. Denne filmen vil bestå av 5 kuber som svermer tilfeldig rundt i rommet. Du kan se filmen koden lagde [her](kube_sverm.mp4)
 
 ### Firkanter med farge
 
